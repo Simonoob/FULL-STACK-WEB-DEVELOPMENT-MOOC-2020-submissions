@@ -1,0 +1,31 @@
+body {
+  margin: 0 0.5rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+input {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.flex {
+  display: flex;
+  margin-bottom: 1rem;
+}
+button {
+  margin: 0 0.5rem;
+}
